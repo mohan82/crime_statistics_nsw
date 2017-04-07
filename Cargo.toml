@@ -1,0 +1,6 @@
+[package]
+name = "crime_statistics_nsw"
+version = "0.1.0"
+authors = ["Mohan Ambalavanan <mohan.ambalavanan@gmail.com>"]
+
+[dependencies]
